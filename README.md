@@ -68,8 +68,4 @@ PRIVATE_KEY=
 ```sh
 yarn start
 ```
-## Author
-- [**Github**](https://github.com/btcoin23)
-
-- [**Telegram**](https://t.me/BTC0in23)
 
